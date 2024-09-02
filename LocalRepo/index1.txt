@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 My first feature
 add login page
-=======
-add files feature1
->>>>>>> a31b2ef02dde57a2ab4654dc0382e3efac66dc61
+
+
